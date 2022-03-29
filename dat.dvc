@@ -1,0 +1,12 @@
+md5: b195266e8f3de0118203fa4aead92b64
+frozen: true
+deps:
+- path: dat
+  repo:
+    url: https://github.com/DerwenAI/kglab
+    rev_lock: d95db1369a787dcbecd06d4b8e3f2152da1b49a5
+outs:
+- md5: 097fe1f737f294c9f16c11ef875fe3fe.dir
+  size: 56428921
+  nfiles: 30
+  path: dat

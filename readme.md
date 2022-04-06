@@ -4,7 +4,11 @@ This repository will serve as a centralized hub where students new to knowledge 
 
 ## How to pull in the data
 
-After you have cloned the repo into a local environment, run the following command
+First, clone the repo to your local environment:
+
+`git clone https://github.com/nd-crane/kg-resources.git`
+
+Then, run the following command:
 
 `dvc pull`
 
